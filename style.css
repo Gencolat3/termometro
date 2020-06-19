@@ -1,0 +1,90 @@
+header {
+    background: #2c3e50;
+    color: #fff;
+}
+
+
+
+footer {
+
+	background-color: #fff;
+   width: 100%;
+   height: 76px;
+   bottom:0;
+ 
+   text-align: center;
+   
+}
+
+body {
+
+background-image: url(fondo.png);
+
+background-position: center center;
+
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+
+background-size: cover;
+
+background-color: #66999;
+
+}
+
+header {
+
+background-image: url(header.png);
+}
+
+.vertical{
+margin-top:15%;
+}
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+    display: none;
+}
+
+
+
+.opa {
+   background: rgba(0,0,0,0.5);
+   
+
+} 
+.das{
+
+ 
+    margin-top: 60px;
+}
+
+
+.das4 {
+    background: #61F34D !important;
+}
+
+
+input,
+input::-webkit-input-placeholder {
+    font-size:9px;
+    text-align: center;
+    
+}
+
+.navbar-brand {
+  padding: 0px;
+  height: 80px;
+}
+.navbar-brand>img {
+  height: 52px;
+  padding: 0px;
+  width: 220px;
+}
+
+
+.diveso{
+
+padding-bottom: 0px;
+
+
+}
+
